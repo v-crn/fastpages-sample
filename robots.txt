@@ -1,0 +1,1 @@
+Sitemap: https://v-crn.github.io/fastpages-sample/sitemap.xml
